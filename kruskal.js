@@ -1,5 +1,5 @@
 
-let size = 1;
+let size = 3;
 
 let coords = {};
 let coordToId = {};
@@ -148,3 +148,4 @@ populate(size);
 kruskal();
 
 renderRoom();
+
